@@ -93,6 +93,14 @@ Contributions make the community awesome! Please follow these steps:
 
 ---
 
+## 🔍 See Also
+
+- **[AI Code Editing Tools](https://github.com/ishandutta2007/Awesome-AI-Code-Editor)**
+- **[CLI Code Editing Tools](https://github.com/ishandutta2007/Awesome-CLI-Coding-Agents)**
+- **[AI IDE Extensions](https://github.com/ishandutta2007/Awesome-AI-IDE-Extensions)**
+
+---
+
 ## 📈 Star History
 
 <div align="center">
