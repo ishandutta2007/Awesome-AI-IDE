@@ -5,12 +5,13 @@
 # 🚀 Awesome AI IDE
 ### The Ultimate Curated List of AI-Powered IDEs, Agents & Coding Ecosystems
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-IDE?style=for-the-badge&logo=github&color=FFD700)](https://github.com/ishandutta2007/Awesome-AI-IDE/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-IDE?style=for-the-badge&logo=github&color=58A6FF)](https://github.com/ishandutta2007/Awesome-AI-IDE/network/members)
 [![License](https://img.shields.io/github/license/ishandutta2007/Awesome-AI-IDE?style=for-the-badge&logo=opensourceinitiative&color=BC8CFF)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/ishandutta2007/Awesome-AI-IDE?style=for-the-badge&logo=git&color=40C463)](https://github.com/ishandutta2007/Awesome-AI-IDE/commits/main)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/ishandutta2007/Awesome-AI-IDE/pulls)
-<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge" /></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **Transforming the way developers write, debug, and deploy code with Agentic AI.**
 

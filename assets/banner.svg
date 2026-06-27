@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#070a13" />
+    </linearGradient>
+
+    <!-- Accent Gradients -->
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="50%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Filters for Glow Effects -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="40" result="blur" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bgGrad)" />
+
+  <!-- Ambient Glow Backgrounds -->
+  <circle cx="200" cy="100" r="180" fill="url(#glowGrad)" filter="url(#softGlow)" />
+  <circle cx="1000" cy="300" r="220" fill="url(#glowGrad)" filter="url(#softGlow)" />
+
+  <!-- Decorative Tech Grid/Patterns -->
+  <g stroke="#ffffff" stroke-opacity="0.04" stroke-width="1">
+    <line x1="0" y1="50" x2="1200" y2="50" />
+    <line x1="0" y1="100" x2="1200" y2="100" />
+    <line x1="0" y1="150" x2="1200" y2="150" />
+    <line x1="0" y1="200" x2="1200" y2="200" />
+    <line x1="0" y1="250" x2="1200" y2="250" />
+    <line x1="0" y1="300" x2="1200" y2="300" />
+    <line x1="0" y1="350" x2="1200" y2="350" />
+
+    <line x1="150" y1="0" x2="150" y2="400" />
+    <line x1="300" y1="0" x2="300" y2="400" />
+    <line x1="450" y1="0" x2="450" y2="400" />
+    <line x1="600" y1="0" x2="600" y2="400" />
+    <line x1="750" y1="0" x2="750" y2="400" />
+    <line x1="900" y1="0" x2="900" y2="400" />
+    <line x1="1050" y1="0" x2="1050" y2="400" />
+  </g>
+
+  <!-- Glowing Abstract Network Nodes -->
+  <g stroke="url(#primaryGrad)" stroke-width="1.5" stroke-opacity="0.3" fill="none">
+    <path d="M 150,150 L 250,100 L 350,180 L 200,280 Z" />
+    <path d="M 950,120 L 1050,220 L 900,300 L 850,180 Z" />
+    <path d="M 500,80 L 700,80 L 600,180 Z" stroke-dasharray="5,5" />
+  </g>
+
+  <!-- Glowing Nodes/Vertices -->
+  <g fill="url(#primaryGrad)" filter="url(#glow)">
+    <circle cx="150" cy="150" r="6" />
+    <circle cx="250" cy="100" r="4" />
+    <circle cx="350" cy="180" r="5" />
+    <circle cx="200" cy="280" r="7" />
+    <circle cx="950" cy="120" r="5" />
+    <circle cx="1050" cy="220" r="7" />
+    <circle cx="900" cy="300" r="4" />
+    <circle cx="850" cy="180" r="6" />
+  </g>
+
+  <!-- Central Content -->
+  <g transform="translate(600, 200)" text-anchor="middle">
+    <!-- Title Glow -->
+    <text y="-20" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="900" font-size="76" fill="url(#primaryGrad)" filter="url(#glow)" letter-spacing="4">AWESOME AI IDE</text>
+    <!-- Title Main -->
+    <text y="-20" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="900" font-size="76" fill="#ffffff" letter-spacing="4">AWESOME AI IDE</text>
+
+    <!-- Subtitle -->
+    <text y="50" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="600" font-size="22" fill="#9ca3af" letter-spacing="2">THE ULTIMATE CURATED LIST OF AI-POWERED IDEs, AGENTS &amp; ECOSYSTEMS</text>
+
+    <!-- Decorative Border/Line below title -->
+    <rect x="-250" y="80" width="500" height="4" rx="2" fill="url(#primaryGrad)" filter="url(#glow)" />
+  </g>
+
+  <!-- Floating Tech Symbols / Icons -->
+  <!-- Code brackets <> -->
+  <path d="M 80,180 L 50,200 L 80,220 M 1120,180 L 1150,200 L 1120,220" stroke="url(#primaryGrad)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none" filter="url(#glow)" />
+  <path d="M 95,170 L 75,230 M 1105,170 L 1085,230" stroke="#9ca3af" stroke-width="4" stroke-linecap="round" fill="none" />
+</svg>
