@@ -5,11 +5,11 @@
 # 🚀 Awesome AI Code Editor
 ### The Ultimate Curated List of AI-Powered IDEs, Agents & Coding Ecosystems
 
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Code-Editor?style=for-the-badge&logo=github&color=FFD700)](https://github.com/ishandutta2007/Awesome-AI-Code-Editor/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Code-Editor?style=for-the-badge&logo=github&color=58A6FF)](https://github.com/ishandutta2007/Awesome-AI-Code-Editor/network/members)
-[![License](https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Code-Editor?style=for-the-badge&logo=opensourceinitiative&color=BC8CFF)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/ishandutta2007/Awesome-AI-Code-Editor?style=for-the-badge&logo=git&color=40C463)](https://github.com/ishandutta2007/Awesome-AI-Code-Editor/commits/main)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/ishandutta2007/Awesome-AI-Code-Editor/pulls)
+[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-IDE?style=for-the-badge&logo=github&color=FFD700)](https://github.com/ishandutta2007/Awesome-AI-IDE/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-IDE?style=for-the-badge&logo=github&color=58A6FF)](https://github.com/ishandutta2007/Awesome-AI-IDE/network/members)
+[![License](https://img.shields.io/github/license/ishandutta2007/Awesome-AI-IDE?style=for-the-badge&logo=opensourceinitiative&color=BC8CFF)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/ishandutta2007/Awesome-AI-IDE?style=for-the-badge&logo=git&color=40C463)](https://github.com/ishandutta2007/Awesome-AI-IDE/commits/main)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/ishandutta2007/Awesome-AI-IDE/pulls)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge" /></a>
 
 **Transforming the way developers write, debug, and deploy code with Agentic AI.**
@@ -153,7 +153,7 @@ Contributions make the community awesome! Please follow these steps:
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Code-Editor&theme=dark)](https://star-history.com/#ishandutta2007/Awesome-AI-Code-Editor&Date)
+[![Star History Chart](https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-IDE&theme=dark)](https://star-history.com/#ishandutta2007/Awesome-AI-IDE&Date)
 
 </div>
 
@@ -161,7 +161,7 @@ Contributions make the community awesome! Please follow these steps:
 
 <div align="center">
 
-**[⬆ Back to Top](#-awesome-ai-code-editor)**
+**[⬆ Back to Top](#-Awesome-AI-IDE)**
 
 Made with ❤️ for the AI Developer Community.
 
