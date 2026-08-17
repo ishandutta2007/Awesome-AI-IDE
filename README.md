@@ -54,6 +54,7 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 | **[PearAI](https://pear.ai/)** | Open-core AI editor for modern workflows. | **Out of Business (June 2026).** | N/A | N/A | **$2.5M** (YC S24) |
 | **[Void IDE](https://void.dev/)** | Modern AI-native editor focused on privacy. | **Development Paused.** | N/A (Free/Open Source) | N/A (Self-hosted) | **$1M** (YC S24) |
 | **[Supermaven](https://supermaven.com/)** | Ultra-fast with 1M token context. | **Acquired by Cursor (2024).** | N/A (Merged with Cursor) | N/A (Merged with Cursor) | Part of Cursor |
+| **[ZCode](https://zcode.z.ai/en?utm_source=z.ai)** |||Starts at $12.6/ month|100M Tokens per day|**1B**(Z.ai)|
 
 ---
 
